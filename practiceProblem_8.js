@@ -1,4 +1,6 @@
-/* Print odd even numbers*/ 
+/*  
+! Print odd even numbers
+*/ 
 
 let a = 1;
 while (a<=10) {

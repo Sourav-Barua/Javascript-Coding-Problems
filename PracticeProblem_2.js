@@ -1,4 +1,6 @@
-/*Question : write a program to calculate average marks of mathematics, biology, chemistry, physics and bangla of a student*/ 
+/*
+!Question : write a program to calculate average marks of mathematics, biology, chemistry, physics and bangla of a student
+*/ 
 
 let mathematicsMarks = 75.25;
 let biologyMarks = 65;

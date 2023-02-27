@@ -1,6 +1,7 @@
-/* var fruits= ['apple', 'banana', 'oranges']
-    1. find the index of banana and replace banana with mango\
-    2.remove orange and add watermelon 
+/* 
+? var fruits= ['apple', 'banana', 'oranges']
+?   1. find the index of banana and replace banana with mango\
+?   2.remove orange and add watermelon 
 */ 
 
 var fruits = ['apple', 'banana', 'orange'];

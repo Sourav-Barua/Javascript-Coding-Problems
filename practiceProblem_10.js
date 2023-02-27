@@ -1,5 +1,5 @@
 /* Ques:
-    write a function findOddSum() that will take the array[5,7,8,45,30] as the input parameter and will return the sum of the odd Number 
+    ! write a function findOddSum() that will take the array[5,7,8,45,30] as the input parameter and will return the sum of the odd Number 
  */
 
     function getSumOfArray(numbers) {

@@ -1,6 +1,7 @@
-/* You are given  a triangle with the sides 9,8,9 write a program to check whether a triangle is isosceles or not using if else.*/
+/* 
+! You are given  a triangle with the sides 9,8,9 write a program to check whether a triangle is isosceles or not using if else.*/
 
-// isosceles => two sides are equal 
+// * isosceles => two sides are equal 
 
 var side1 = 9 ;
 var side2 = 8 ;
